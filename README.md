@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+## Math
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
