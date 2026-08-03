@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0877-stone-game](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [2104-sum-of-subarray-ranges](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2104-sum-of-subarray-ranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
