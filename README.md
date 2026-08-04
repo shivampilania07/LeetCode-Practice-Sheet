@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0260-single-number-iii) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2104-sum-of-subarray-ranges) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
