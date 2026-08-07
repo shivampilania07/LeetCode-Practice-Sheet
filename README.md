@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0877-stone-game](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3345-smallest-divisible-digit-product-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
