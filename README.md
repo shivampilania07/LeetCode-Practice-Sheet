@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Game Theory
 |  |
@@ -82,4 +83,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
