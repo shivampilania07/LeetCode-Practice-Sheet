@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0415-add-strings](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0415-add-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Game Theory
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
