@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0040-combination-sum-ii) |
+| [0074-search-a-2d-matrix](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0135-candy) |
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0415-add-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
