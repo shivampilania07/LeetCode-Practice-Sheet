@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1200-minimum-absolute-difference) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2104-sum-of-subarray-ranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0260-single-number-iii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0074-search-a-2d-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
