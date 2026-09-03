@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2104-sum-of-subarray-ranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
