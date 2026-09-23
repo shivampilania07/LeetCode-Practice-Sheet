@@ -12,9 +12,9 @@ class Solution {
             return -1;
         }
 
-        if (target == 0) {
-            return n;
-        }
+        // if (target == 0) {
+        //     return n;
+        // }
 
         int left = 0;
         int sum = 0;
