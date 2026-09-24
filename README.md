@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0877-stone-game](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0006-zigzag-conversion) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0415-add-strings](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0415-add-strings) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Enumeration
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
