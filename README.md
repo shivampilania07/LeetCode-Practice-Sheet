@@ -193,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [1193-monthly-transactions-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
