@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0005-longest-palindromic-substring) |
+| [0091-decode-ways](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0091-decode-ways) |
 | [0877-stone-game](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0006-zigzag-conversion) |
+| [0091-decode-ways](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0091-decode-ways) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0415-add-strings](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0415-add-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
