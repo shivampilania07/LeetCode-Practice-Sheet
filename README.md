@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2104-sum-of-subarray-ranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1200-minimum-absolute-difference](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1200-minimum-absolute-difference) |
+| [3886-sum-of-sortable-integers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3886-sum-of-sortable-integers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
