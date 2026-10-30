@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0334-increasing-triplet-subsequence) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0091-decode-ways) |
+| [0198-house-robber](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
