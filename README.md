@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0040-combination-sum-ii) |
+| [0063-unique-paths-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0005-longest-palindromic-substring) |
+| [0063-unique-paths-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0877-stone-game) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0074-search-a-2d-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3882-minimum-xor-path-in-a-grid) |
