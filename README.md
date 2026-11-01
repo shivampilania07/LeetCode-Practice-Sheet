@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0334-increasing-triplet-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0877-stone-game](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3345-smallest-divisible-digit-product-i) |
