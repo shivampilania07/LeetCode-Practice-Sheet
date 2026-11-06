@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2104-sum-of-subarray-ranges](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2104-sum-of-subarray-ranges) |
+| [2747-count-zero-request-servers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2747-count-zero-request-servers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1200-minimum-absolute-difference](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1200-minimum-absolute-difference) |
+| [2747-count-zero-request-servers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2747-count-zero-request-servers) |
 | [3886-sum-of-sortable-integers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2747-count-zero-request-servers) |
 ## Math
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/2747-count-zero-request-servers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivampilania07/LeetCode-Practice-Sheet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Manacher
 |  |
